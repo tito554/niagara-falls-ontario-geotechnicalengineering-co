@@ -1,0 +1,51 @@
+# Geotechnicalengineering — Niagara Falls Ontario
+
+> Geotechnical engineering services in Niagara Falls Ontario, Canada.
+
+## Services
+- [Anchors](https://niagara-falls-ontario.geotechnicalengineering.co/anchors/)
+- [Atterberg Limits](https://niagara-falls-ontario.geotechnicalengineering.co/atterberg-limits/)
+- [Cbr Road](https://niagara-falls-ontario.geotechnicalengineering.co/cbr-road/)
+- [Cpt Test](https://niagara-falls-ontario.geotechnicalengineering.co/cpt-test/)
+- [Deep Excavations](https://niagara-falls-ontario.geotechnicalengineering.co/deep-excavations/)
+- [Excavation Monitoring](https://niagara-falls-ontario.geotechnicalengineering.co/excavation-monitoring/)
+- [Excavations](https://niagara-falls-ontario.geotechnicalengineering.co/excavations/)
+- [Flexible Pavement](https://niagara-falls-ontario.geotechnicalengineering.co/flexible-pavement/)
+- [Footings](https://niagara-falls-ontario.geotechnicalengineering.co/footings/)
+- [Foundations](https://niagara-falls-ontario.geotechnicalengineering.co/foundations/)
+- [Grain Size](https://niagara-falls-ontario.geotechnicalengineering.co/grain-size/)
+- [Ground Improvement](https://niagara-falls-ontario.geotechnicalengineering.co/ground-improvement/)
+- [Grouting](https://niagara-falls-ontario.geotechnicalengineering.co/grouting/)
+- [In Situ Permeability](https://niagara-falls-ontario.geotechnicalengineering.co/in-situ-permeability/)
+- [Investigation](https://niagara-falls-ontario.geotechnicalengineering.co/investigation/)
+- [Lab In Situ](https://niagara-falls-ontario.geotechnicalengineering.co/lab-in-situ/)
+- [Laboratory](https://niagara-falls-ontario.geotechnicalengineering.co/laboratory/)
+- [Liquefaction](https://niagara-falls-ontario.geotechnicalengineering.co/liquefaction/)
+- [Masw](https://niagara-falls-ontario.geotechnicalengineering.co/masw/)
+- [Mat Foundations](https://niagara-falls-ontario.geotechnicalengineering.co/mat-foundations/)
+- [Piles](https://niagara-falls-ontario.geotechnicalengineering.co/piles/)
+- [Proctor Tests](https://niagara-falls-ontario.geotechnicalengineering.co/proctor-tests/)
+- [Resistivity](https://niagara-falls-ontario.geotechnicalengineering.co/resistivity/)
+- [Retaining Walls](https://niagara-falls-ontario.geotechnicalengineering.co/retaining-walls/)
+- [Rigid Pavement](https://niagara-falls-ontario.geotechnicalengineering.co/rigid-pavement/)
+- [Road Geotechnics](https://niagara-falls-ontario.geotechnicalengineering.co/road-geotechnics/)
+- [Sand Cone Density](https://niagara-falls-ontario.geotechnicalengineering.co/sand-cone-density/)
+- [Seismic](https://niagara-falls-ontario.geotechnicalengineering.co/seismic/)
+- [Seismic Isolation](https://niagara-falls-ontario.geotechnicalengineering.co/seismic-isolation/)
+- [Seismic Microzonation](https://niagara-falls-ontario.geotechnicalengineering.co/seismic-microzonation/)
+- [Seismic Refraction](https://niagara-falls-ontario.geotechnicalengineering.co/seismic-refraction/)
+- [Slope Stability](https://niagara-falls-ontario.geotechnicalengineering.co/slope-stability/)
+- [Slopes](https://niagara-falls-ontario.geotechnicalengineering.co/slopes/)
+- [Soft Ground Tunnels](https://niagara-falls-ontario.geotechnicalengineering.co/soft-ground-tunnels/)
+- [Spt Drilling](https://niagara-falls-ontario.geotechnicalengineering.co/spt-drilling/)
+- [Stone Columns](https://niagara-falls-ontario.geotechnicalengineering.co/stone-columns/)
+- [Test Pits](https://niagara-falls-ontario.geotechnicalengineering.co/test-pits/)
+- [Triaxial](https://niagara-falls-ontario.geotechnicalengineering.co/triaxial/)
+- [Vibrocompaction](https://niagara-falls-ontario.geotechnicalengineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://niagara-falls-ontario.geotechnicalengineering.co/
+
+## About
+This site provides geotechnical engineering services in Niagara Falls Ontario, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
